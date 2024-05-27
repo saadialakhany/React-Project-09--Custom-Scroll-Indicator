@@ -1,0 +1,14 @@
+* {
+  margin-top: 0;
+}
+.scroll--container {
+  background-color: #00296b;
+  color: #fff;
+  padding: 20px;
+  position: sticky;
+}
+.scroll-bar {
+  background-color: #ffd500;
+  height: 15px;
+  margin-bottom: 30px;
+}
